@@ -23,6 +23,9 @@ sudo chmod +x Advanced-darkboss1-Vuln.sh && sudo ./Advanced-darkboss1-Vuln.sh
 
 # Install Python dependencies
 sudo pip3 install -r requirements.txt
+# Installing Gobuster
+sudo apt update
+sudo apt install gobuster
 
 # Launch the tool
 sudo python3 main.py
