@@ -25,10 +25,11 @@ class WebReconTool:
         """Display application banner"""
         banner = f"""
 {Fore.CYAN}╔══════════════════════════════════════════════════════════════╗
-║                    {Fore.RED}WEB SCANNER TOOL{Fore.CYAN}                   ║
-║                    {Fore.YELLOW}Black-Hat Darkboss1 Ethical Hacking Tool{Fore.CYAN}                ║
-║                                                              ║
+║                    {Fore.RED}WEB SCANNER TOOL{Fore.CYAN}                ║
+║                    {Fore.YELLOW}Black-Hat Darkboss1 Ethical Hacking Tool{Fore.CYAN} ║
+║                                                                                     ║
 ║  {Fore.GREEN}Author: Black-Hat Darkboss1 Security Researcher             {Fore.CYAN}║
+║  {Fore.GREEN}Contact Tg: https://t.me/darkboss1bd                        {Fore.CYAN}║
 ║  {Fore.GREEN}Version: 3.1                                                {Fore.CYAN}║
 ║  {Fore.GREEN}Purpose: Educational & Authorized Use Only                  {Fore.CYAN}║
 ╚══════════════════════════════════════════════════════════════╝{Style.RESET_ALL}
