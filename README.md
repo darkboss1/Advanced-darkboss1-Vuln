@@ -58,7 +58,7 @@ chmod +x main.py
 ### Basic Usage
 
 ```bash
-# Launch VulnHawk
+# Launch Advanced-darkboss1-Vuln
 sudo python3 main.py
 
 # Select target (e.g., example.com)
