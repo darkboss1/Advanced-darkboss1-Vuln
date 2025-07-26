@@ -85,7 +85,7 @@ sudo python3 main.py
 > Select option: 2
 ```
 
-### Full Reconnaissance Suite
+### Full dvanced Web Scanner Toolkit
 
 ```bash
 # Complete automated scanning
@@ -147,20 +147,6 @@ git checkout -b feature/new-module
 
 # Make changes and test
 python3 main.py
-
-# Submit pull request
-```
-
-### Contribution Guidelines
-
-- 🐛 **Bug Reports** - Use GitHub issues with detailed descriptions
-- ✨ **Feature Requests** - Propose new modules or improvements
-- 🔧 **Code Contributions** - Follow Python PEP 8 style guidelines
-- 📖 **Documentation** - Help improve README and code comments
-
----
-
-## 🆘 Troubleshooting
 
 ### Common Issues
 
